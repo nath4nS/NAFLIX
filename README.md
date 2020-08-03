@@ -6,7 +6,7 @@
 <p align="center">• Desenvolvido durante a semnana de Imersão React da Alura!<p>
 <p align="center">• O projeto pode salvar vídeos favoritos do Youtube, deixando mais fácil o acesso!<p>
 
-<h4 align="center">Tecnologias</h4>
+<h4 align="center">:rocket: Tecnologias</h4>
 <p align="center">
-    <img src='./public/logo512.png' width='2%'>React Native
+    <img src='./public/logo512.png' width='2%'> React Native
 <p>
