@@ -2,7 +2,7 @@
  <img src='./src/assets/img/Logo.png' width='15%'>
 </h1>
 
-<h4 align="center">Projeto</h4>
+<h4 align="center">:rocket: Projeto</h4>
 <p align="center">• Desenvolvido durante a semana de Imersão React da Alura!<p>
 <p align="center">• O projeto pode salvar vídeos favoritos do Youtube, deixando mais fácil o acesso!<p>
 
