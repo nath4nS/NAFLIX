@@ -8,5 +8,5 @@
 
 <h4 align="center">:rocket: Tecnologias</h4>
 <p align="center">
-    <img src='./public/logo512.png' width='2%'> React Native
+    <img src='./public/logo512.png' width='2%'>  React Native
 <p>
