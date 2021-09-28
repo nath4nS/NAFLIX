@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">:rocket: Projeto</h4>
-<p align="center">• O projeto foi desenvolvido durante a semana de Imersão React da Alura!<p>
+<p align="center">• O projeto foi desenvolvido durante a semana de Imersão React Da Alura!<p>
 <p align="center">• O projeto pode salvar vídeos favoritos do Youtube, deixando mais fácil o acesso!<p>
 
 <h4 align="center">:rocket: Tecnologias</h4>
